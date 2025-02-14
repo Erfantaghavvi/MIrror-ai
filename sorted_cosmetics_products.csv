@@ -1,0 +1,206 @@
+Product Name,Brand,Price,Rating,Skin Type,Product Type,Skin Concerns
+
+# محصولات پوست خشک - مرطوب‌کننده و آبرسان
+سرتو کرم مرطوب کننده غنی شده,سرتو,42.99,4.9,Dry,Moisturizer,Dryness
+لانکوم کرم شب بازسازی کننده,لانکوم,89.99,4.8,Dry,Night Cream,"Dryness,Wrinkles"
+کلارنس روغن صورت لوتوس,کلارنس,65.99,4.7,Dry,Face Oil,"Dryness,Sensitivity"
+بیوآکوا ماسک شیر و عسل,بیوآکوا,25.99,4.6,Dry,Face Mask,"Dryness,Nourishing"
+اوریاژ ژل شستشو ملایم,اوریاژ,19.99,4.7,Dry,Cleanser,"Dryness,Sensitivity"
+لافارر کرم مرطوب کننده قوی,لافارر,35.99,4.8,Dry,Moisturizer,"Dryness,Dehydration"
+اولیویا کرم شب هیالورونیک اسید,اولیویا,55.99,4.8,Dry,Night Cream,"Dryness,Anti-aging"
+فرش اسکین بالم مغذی,فرش,29.99,4.7,Dry,Balm,"Dryness,Nourishing"
+آبیانس روغن آرگان,آبیانس,45.99,4.8,Dry,Face Oil,"Dryness,Repair"
+لافارر اسپری آبرسان,لافارر,22.99,4.6,Dry,Face Mist,"Dryness,Hydration"
+
+# محصولات پوست چرب - کنترل چربی و منافذ
+لاروش پوزای افاکلار,لاروش پوزای,29.99,4.8,Oily,Cleanser,"Oiliness,Acne"
+اوردرم سبورین ژل,اوردرم,24.99,4.7,Oily,Gel,"Oiliness,Enlarged Pores"
+بایودرما سبیوم فوم,بایودرما,22.99,4.9,Oily,Cleanser,"Oiliness,Acne"
+اسکین سوتیکالز سرم نیاسینامید,اسکین سوتیکالز,89.99,4.8,Oily,Serum,"Oiliness,Pores"
+ویشی نورمادرم فلویید,ویشی,32.99,4.7,Oily,Moisturizer,"Oiliness,Shine Control"
+سینره تونر کنترل چربی,سینره,18.99,4.6,Oily,Toner,"Oiliness,Pores"
+ایزدین پوردرم پد لایه بردار,ایزدین,28.99,4.7,Oily,Exfoliator,"Oiliness,Blackheads"
+سبامد فوم شستشو,سبامد,19.99,4.8,Oily,Cleanser,"Oiliness,Acne"
+اوریاژ ماسک خاک رس,اوریاژ,25.99,4.7,Oily,Mask,"Oiliness,Pores"
+لاروش پوزای سرم سالیسیلیک اسید,لاروش پوزای,45.99,4.9,Oily,Serum,"Oiliness,Acne"
+
+# محصولات پوست مختلط - متعادل کننده
+کلینیک دراماتیکالی موچریزینگ ژل,کلینیک,29.99,4.8,Combination,Gel Moisturizer,"Combination,Balance"
+آردن سرم متعادل کننده,آردن,45.99,4.7,Combination,Serum,"Combination,Pores"
+اسکین بتر تونر دو فاز,اسکین بتر,28.99,4.6,Combination,Toner,"Combination,Balance"
+نوتروژینا هیدرو بوست ژل,نوتروژینا,19.99,4.8,Combination,Gel Moisturizer,"Combination,Hydration"
+سی گل لوسیون متعادل کننده,سی گل,22.99,4.7,Combination,Lotion,"Combination,Balance"
+اسکین اند لب ژل شستشو متعادل کننده,اسکین اند لب,24.99,4.8,Combination,Cleanser,"Combination,Balance"
+بیوره پد لایه بردار دو فاز,بیوره,18.99,4.7,Combination,Exfoliator,"Combination,Pores"
+ایننیسفری ماسک گل سرخ,ایننیسفری,15.99,4.6,Combination,Mask,"Combination,Hydration"
+سامسونگ بیوتی سرم چای سبز,سامسونگ بیوتی,35.99,4.8,Combination,Serum,"Combination,Balance"
+میشا کرم ژل متعادل کننده,میشا,29.99,4.7,Combination,Gel Cream,"Combination,Oil Control"
+
+# محصولات پوست حساس - آرام‌بخش و ترمیم‌کننده
+آوین ترمال واتر اسپری,آوین,15.99,4.9,Sensitive,Thermal Water,"Sensitivity,Soothing"
+لیراک کرم آرام‌بخش,لیراک,39.99,4.8,Sensitive,Cream,"Sensitivity,Redness"
+سیکاپلست بالم +B5,سیکاپلست,29.99,4.9,Sensitive,Balm,"Sensitivity,Repair"
+ایزی‌پی سرم کالمینگ,ایزی‌پی,34.99,4.7,Sensitive,Serum,"Sensitivity,Redness"
+بایودرما سنسیبیو تونر,بایودرما,21.99,4.8,Sensitive,Toner,"Sensitivity,Soothing"
+لاروش پوزای تولریان کرم,لاروش پوزای,32.99,4.9,Sensitive,Cream,"Sensitivity,Hydration"
+آوین سیکالفات کرم,آوین,28.99,4.8,Sensitive,Cream,"Sensitivity,Repair"
+کلدرما ژل آلوئه ورا,کلدرما,19.99,4.7,Sensitive,Gel,"Sensitivity,Soothing"
+سی گل لوسیون کامومیل,سی گل,24.99,4.8,Sensitive,Lotion,"Sensitivity,Calming"
+بایودرما سنسیبیو ماسک,بایودرما,27.99,4.7,Sensitive,Mask,"Sensitivity,Hydration"
+
+# محصولات ضد پیری و چروک
+لانکوم ژنیفیک سرم,لانکوم,99.99,4.9,Aging,Serum,"Wrinkles,Firmness"
+شیسیدو بنفیانس کرم شب,شیسیدو,89.99,4.8,Aging,Night Cream,"Wrinkles,Elasticity"
+لامر کرم مرطوب کننده,لامر,189.99,4.9,Aging,Moisturizer,"Wrinkles,Hydration"
+دکور کرم دور چشم رتینول,دکور,69.99,4.7,Aging,Eye Cream,"Wrinkles,Dark Circles"
+فیلورگا تایم فیلر کرم,فیلورگا,79.99,4.8,Aging,Cream,"Wrinkles,Fine Lines"
+استی لودر ادونسد نایت ریپر سرم,استی لودر,95.99,4.9,Aging,Serum,"Wrinkles,Repair"
+سیسلی بلک رز کرم,سیسلی,199.99,4.9,Aging,Cream,"Wrinkles,Radiance"
+کلارنس دابل سرم,کلارنس,89.99,4.8,Aging,Serum,"Wrinkles,Firmness"
+دیور کپچر توتال کرم,دیور,129.99,4.8,Aging,Cream,"Wrinkles,Anti-aging"
+لانکوم رژنری کرم شب,لانکوم,110.99,4.7,Aging,Night Cream,"Wrinkles,Repair"
+
+# محصولات روشن کننده و ضد لک
+کیلز کلیرلی برایت سرم,کیلز,59.99,4.7,All,Serum,"Dark Spots,Brightening"
+اسکین سوتیکالز دیسکالریشن دیفنس,اسکین سوتیکالز,98.99,4.8,All,Serum,"Dark Spots,Uneven Tone"
+مدیک کنترل وایت کرم,مدیک کنترل,45.99,4.6,All,Cream,"Dark Spots,Brightening"
+نئوتون کرم روشن کننده,نئوتون,39.99,4.7,All,Cream,"Dark Spots,Hyperpigmentation"
+لانکوم UV بلاک کرم,لانکوم,75.99,4.8,All,Cream,"Dark Spots,Sun Protection"
+استی لودر پرفکتیونیست سرم,استی لودر,85.99,4.9,All,Serum,"Dark Spots,Radiance"
+ویشی لیفتاکتیو سرم,ویشی,65.99,4.7,All,Serum,"Dark Spots,Anti-aging"
+سینره وایتنینگ ماسک,سینره,29.99,4.6,All,Mask,"Dark Spots,Brightening"
+اولیویا آربوتین کرم,اولیویا,55.99,4.8,All,Cream,"Dark Spots,Whitening"
+
+# محصولات ضد آکنه و جوش
+لاروش پوزای افاکلار دوو,لاروش پوزای,32.99,4.9,Oily,Treatment,"Acne,Oiliness"
+اوردرم سبورین سرم,اوردرم,28.99,4.8,Oily,Serum,"Acne,Pores"
+بایودرما سبیوم ژل,بایودرما,25.99,4.7,Oily,Gel,"Acne,Oil Control"
+ایزدین آکندین کرم,ایزدین,35.99,4.8,Oily,Cream,"Acne,Inflammation"
+سبامد آکنه سولوشن,سبامد,22.99,4.6,Oily,Solution,"Acne,Bacteria"
+
+# محصولات مراقبت از منافذ
+پولار پور مینیمایزر سرم,پولار,42.99,4.8,Oily,Serum,"Pores,Oil Control"
+بنفیت پورفشنال پرایمر,بنفیت,38.99,4.7,All,Primer,"Pores,Texture"
+فیورنا پور ریدیوسر ماسک,فیورنا,32.99,4.6,Oily,Mask,"Pores,Purifying"
+درمالوژیکا میکروفولیانت سرم,درمالوژیکا,55.99,4.8,All,Serum,"Pores,Exfoliation"
+اسکین فود پور کلیر ماسک,اسکین فود,25.99,4.7,Oily,Mask,"Pores,Cleansing"
+
+# محصولات آبرسانی عمیق
+نوتروژینا هیدرو بوست سرم,نوتروژینا,45.99,4.9,All,Serum,"Hydration,Plumping"
+لانیژ واتر بنک ماسک,لانیژ,38.99,4.8,All,Mask,"Hydration,Soothing"
+بلیف آکوا بمب کرم,بلیف,42.99,4.7,All,Cream,"Hydration,Moisture"
+اینیسفری بلو هیالورونیک سرم,اینیسفری,35.99,4.8,All,Serum,"Hydration,Anti-aging"
+لانکوم هیدرا زن ژل,لانکوم,52.99,4.7,All,Gel,"Hydration,Cooling"
+
+# محصولات مراقبت از چشم
+استی لودر ادونسد نایت ریپر آی,استی لودر,62.99,4.8,All,Eye Cream,"Dark Circles,Loss of Firmness"
+کلینیک آل اباوت آیز,کلینیک,45.99,4.6,All,Eye Cream,"Puffiness,Fine Lines"
+شیسیدو بنفیانس آی کرم,شیسیدو,65.99,4.7,All,Eye Cream,"Dark Circles,Wrinkles"
+لانکوم جنیفیک آی کرم,لانکوم,69.99,4.8,All,Eye Cream,"Dark Circles,Puffiness"
+سولاری آی ماسک طلا,سولاری,35.99,4.7,All,Eye Mask,"Dark Circles,Hydration"
+سامسونگ بیوتی آی پچ,سامسونگ بیوتی,18.99,4.6,All,Eye Patch,"Puffiness,Cooling"
+اینیسفری آی سرم گرین تی,اینیسفری,42.99,4.8,All,Eye Serum,"Dark Circles,Anti-aging"
+
+# محصولات مراقبت از لب
+لانیژ لیپ سلیپینگ ماسک,لانیژ,22.99,4.9,All,Lip Mask,"Dryness,Nourishing"
+لانکوم لیپ بالم آبسولو,لانکوم,35.99,4.8,All,Lip Balm,"Dryness,Repair"
+اینیسفری لیپ سرم کاندی,اینیسفری,15.99,4.7,All,Lip Serum,"Dryness,Plumping"
+اسکین فود هانی لیپ ماسک,اسکین فود,12.99,4.6,All,Lip Mask,"Dryness,Hydration"
+
+# محصولات مراقبت از گردن
+شیسیدو بنفیانس نک کرم,شیسیدو,85.99,4.8,All,Neck Cream,"Wrinkles,Firmness"
+سیسلی نک کرم,سیسلی,155.99,4.9,All,Neck Cream,"Wrinkles,Anti-aging"
+استی لودر رسیلیانس نک کرم,استی لودر,95.99,4.7,All,Neck Cream,"Wrinkles,Elasticity"
+
+# محصولات مراقبت از دست
+لامر هند تریتمنت کرم,لامر,95.99,4.9,All,Hand Cream,"Dryness,Anti-aging"
+لانکوم ابسولو هند کرم,لانکوم,45.99,4.8,All,Hand Cream,"Dryness,Brightening"
+لاروش پوزای سیکاپلست هند کرم,لاروش پوزای,15.99,4.7,All,Hand Cream,"Dryness,Repair"
+
+# محصولات مراقبت از بدن
+لاروش پوزای لیپیکار بالم,لاروش پوزای,32.99,4.8,All,Body Balm,"Dryness,Repair"
+بیودرما اتودرم لوسیون,بیودرما,25.99,4.7,All,Body Lotion,"Dryness,Itching"
+اوریاژ زیکسیال لوسیون,اوریاژ,28.99,4.6,All,Body Lotion,"Dryness,Keratosis Pilaris"
+
+# محصولات مراقبت از مو
+لاروش پوزای کتوزال شامپو,لاروش پوزای,22.99,4.8,All,Shampoo,"Dandruff,Itching"
+بیودرما نود شامپو,بیودرما,19.99,4.7,All,Shampoo,"Hair Loss,Sensitive Scalp"
+اوریاژ DS شامپو,اوریاژ,24.99,4.6,All,Shampoo,"Dandruff,Oily Scalp"
+
+# محصولات ضد آفتاب
+لاروش پوزای آنتلیوس,لاروش پوزای,29.99,4.8,All,Sunscreen,"Sun Protection,Sensitive Skin"
+هلیودرم ضد آفتاب کامپکت,هلیودرم,34.99,4.7,All,Sunscreen,"Sun Protection,Tinted"
+سینره ضد آفتاب ژلی,سینره,25.99,4.6,Oily,Sunscreen,"Sun Protection,Oil Control"
+نئوتون ضد آفتاب مرطوب کننده,نئوتون,27.99,4.7,Dry,Sunscreen,"Sun Protection,Hydration"
+اسکین بیوتی ماسک مرطوب کننده,اسکین بیوتی,25.99,4.6,Dry,Mask,"Dryness,Uneven Skin Tone"
+اسکین بتر سرم اسکوالان,اسکین بتر,55.99,4.8,Dry,Serum,"Dryness,Sensitivity"
+
+# محصولات پوست خشک - درمان آکنه
+لاروش پوزای افاکلار H,لاروش پوزای,36.99,4.8,Dry,Acne Treatment,"Acne,Dryness"
+آوین کلینانس هیدرا,آوین,32.99,4.7,Dry,Moisturizer,"Acne,Dryness"
+بایودرما سنسیبیو DS+,بایودرما,39.99,4.6,Dry,Cream,"Acne,Sensitivity,Dryness"
+سی‌کیور ژل ضد جوش هیدراته,سی‌کیور,28.99,4.7,Dry,Gel,"Acne,Dryness"
+اوریاژ Hyséac 3-Regul,اوریاژ,34.99,4.5,Dry,Cream,"Acne,Oiliness,Dryness"
+
+# محصولات پوست خشک - درمان اگزما
+سیکاپلاست بالم B5,لاروش پوزای,35.99,4.9,Dry,Balm,"Eczema,Sensitivity"
+اتوپیکس کرم ترمیم‌کننده,اتوپیکس,42.99,4.8,Dry,Cream,"Eczema,Dryness"
+آوین کرم XeraCalm,آوین,39.99,4.7,Dry,Cream,"Eczema,Sensitivity"
+بایودرما کرم Atoderm,بایودرما,32.99,4.8,Dry,Cream,"Eczema,Dryness"
+یوسرین کرم Eczema Relief,یوسرین,29.99,4.6,Dry,Cream,"Eczema,Itching"
+
+# محصولات پوست خشک - ضد چروک
+لانکوم رژنری لیفت,لانکوم,89.99,4.9,Dry,Anti-aging Cream,"Wrinkles,Dryness"
+لاپریری کرم ضد چروک,لاپریری,120.99,4.8,Dry,Anti-aging Cream,"Wrinkles,Loss of Firmness"
+شیسیدو بنفیانس,شیسیدو,95.99,4.7,Dry,Anti-aging Cream,"Wrinkles,Dryness"
+دکتر موری سرم رتینول,دکتر موری,65.99,4.8,Dry,Serum,"Wrinkles,Uneven Texture"
+فیلورگا تایم فیلر,فیلورگا,85.99,4.9,Dry,Anti-aging Cream,"Wrinkles,Dark Spots"
+
+# محصولات پوست چرب - کنترل چربی
+لاروش پوزای افاکلار مت,لاروش پوزای,38.99,4.8,Oily,Moisturizer,"Oiliness,Acne"
+اوردینری نیاسینامید 10%,اوردینری,15.99,4.9,Oily,Serum,"Oiliness,Large Pores"
+پائولا چویس BHA,پائولا چویس,29.99,4.7,Oily,Exfoliator,"Blackheads,Oiliness"
+اینکی لیست سالیسیلیک اسید,اینکی لیست,24.99,4.6,Oily,Serum,"Acne,Oiliness"
+نوتروژینا ژل شستشو,نوتروژینا,18.99,4.5,Oily,Cleanser,"Oiliness,Acne"
+
+# محصولات پوست مختلط
+پیور کرم متعادل کننده,پیور,39.99,4.8,Combination,Moisturizer,"Combination Skin,Uneven Texture"
+سامسونگ مدیکال ژل,سامسونگ مدیکال,45.99,4.7,Combination,Gel,"Oiliness,Dryness"
+اینکی لیست سرم متعادل کننده,اینکی لیست,29.99,4.9,Combination,Serum,"Combination Skin,Large Pores"
+پولی ژن ماسک بالانس,پولی ژن,35.99,4.6,Combination,Mask,"Combination Skin,Uneven Texture"
+کاسمدیک تونر دو فاز,کاسمدیک,28.99,4.7,Combination,Toner,"Combination Skin,Impurities"
+
+# محصولات پوست حساس
+آوین کرم التیام بخش,آوین,42.99,4.8,Sensitive,Cream,"Sensitivity,Redness"
+لاروش پوزای تولریان,لاروش پوزای,39.99,4.9,Sensitive,Moisturizer,"Sensitivity,Dryness"
+بایودرما سنسیبیو,بایودرما,35.99,4.7,Sensitive,Serum,"Sensitivity,Redness"
+سی‌کیور کرم آرام‌بخش,سی‌کیور,29.99,4.6,Sensitive,Cream,"Sensitivity,Irritation"
+درماتیپیک لوسیون التیام,درماتیپیک,32.99,4.8,Sensitive,Lotion,"Sensitivity,Inflammation"
+
+# محصولات روشن کننده و ضد لک
+هیدرودرم سرم ویتامین C,هیدرودرم,45.99,4.8,All,Serum,"Dark Spots,Uneven Skin Tone"
+کوجی سان کرم روشن کننده,کوجی سان,38.99,4.7,All,Cream,"Hyperpigmentation,Dark Spots"
+دکتر ژیلا سرم آلفا آربوتین,دکتر ژیلا,52.99,4.9,All,Serum,"Dark Spots,Dullness"
+سینره کرم ضد لک,سینره,42.99,4.6,All,Cream,"Dark Spots,Sun Damage"
+نئوتروژنا برایت بوست,نئوتروژنا,29.99,4.7,All,Serum,"Dullness,Uneven Skin Tone"
+
+# محصولات دور چشم
+لانکوم ژنیفیک آی,لانکوم,65.99,4.8,All,Eye Cream,"Dark Circles,Puffiness"
+لاپریری آی کویار,لاپریری,150.99,4.9,All,Eye Cream,"Dark Circles,Fine Lines"
+شیسیدو بنفیانس آی,شیسیدو,72.99,4.7,All,Eye Cream,"Wrinkles,Puffiness"
+استی لودر ادونسد نایت ریپر آی,استی لودر,62.99,4.8,All,Eye Cream,"Dark Circles,Loss of Firmness"
+کلینیک آل اباوت آیز,کلینیک,45.99,4.6,All,Eye Cream,"Puffiness,Fine Lines"
+
+# محصولات ضد آفتاب
+لاروش پوزای آنتلیوس,لاروش پوزای,29.99,4.8,All,Sunscreen,"Sun Protection,Sensitive Skin"
+هلیو کر ضد آفتاب فلوئید,هلیو کر,34.99,4.7,Oily,Sunscreen,"Sun Protection,Oiliness"
+بایودرما فوتودرم,بایودرما,32.99,4.9,Sensitive,Sunscreen,"Sun Protection,Sensitivity"
+اوریاژ باریسان,اوریاژ,28.99,4.6,Dry,Sunscreen,"Sun Protection,Dryness"
+سینره ضد آفتاب بی رنگ,سینره,25.99,4.7,Combination,Sunscreen,"Sun Protection,Combination Skin"
+
+# محصولات پاک کننده
+سرتو پاک کننده هیدراتینگ,سرتو,24.99,4.8,Dry,Cleanser,"Dryness,Makeup Removal"
+لاروش پوزای تولریان,لاروش پوزای,22.99,4.9,Sensitive,Cleanser,"Sensitivity,Makeup Removal"
+بایودرما سنسیبیو H2O,بایودرما,19.99,4.7,All,Micellar Water,"Makeup Removal,Sensitive Skin"
+سی‌کیور ژل شستشو,سی‌کیور,18.99,4.6,Oily,Cleanser,"Oiliness,Deep Cleansing"
+اوریاژ ژل شستشو,اوریاژ,21.99,4.8,Combination,Cleanser,"Combination Skin,Deep Cleansing"
